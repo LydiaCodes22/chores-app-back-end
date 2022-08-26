@@ -10,7 +10,7 @@ You may fork and then clone this repository to get access locally. \
 You will need a docker container running MySQL. \
 You will need to set up a .env file and a .env.test file with your own details for the database based on the template below. \
 Run 'npm install' to install the dependencies\
-Run npm start to start the server. \
+Run npm start to start the server.
 
 ## .env template
  DB_PASSWORD=

@@ -5,7 +5,7 @@ This API enables the user to run simple CRUD operations on a database to manage 
 ## Technologies
 This uses express.js to create a simple serve and the API is built from there.
 
-## set up
+## Set up
 You may fork and then clone this repository to get access locally. \
 You will need a docker container running MySQL. \
 You will need to set up a .env file and a .env.test file with your own details for the database based on the template below. \

@@ -1,5 +1,5 @@
 # chores-app-back-end
-The back-end for the Bish Bash Dosh chore management application: https://github.com/LydiaCodes22/Chores-App/tree/main/chores-app. \
+The back-end for the Bish Bash Dosh chore management application: https://github.com/LydiaCodes22/Chores-App. \
 This API enables the user to run simple CRUD operations on a database to manage the user and chore data for the application. 
 
 ## Technologies
